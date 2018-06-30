@@ -2,7 +2,7 @@
 
 // I don't understand how to get the input data to post to the console!
 
-var firstName = document.getElementByName('fname');
+var firstName = document.getElementById('fname');
 var lastName = document.getElementById('lname');
 var emailAddress = document.getElementById('myEmail');
 var theMessage = document.getElementById('message');
