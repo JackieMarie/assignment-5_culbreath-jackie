@@ -1,4 +1,4 @@
-## Assignment 5
+# Assignment 5
 
 ## Link to Assignment 5 on Github
 [Assignment 5](https://github.com/JackieMarie/assignment-5_culbreath-jackie/tree/master)
