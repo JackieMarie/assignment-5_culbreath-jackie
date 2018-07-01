@@ -15,4 +15,4 @@ Used the following to test code:
 I have reviewed the list of deductions for this project and in the syllabus.
 
 ## Comments
-Struggled with the form branch and the load listener in the custom branch. Sometimes I can code easily and other times it takes hours and hours to do one thing!
+Created a different JavaScript file for each branch. Listener branch uses main.js; the form branch uses form.js; and the custom branch uses custom.js. Sometimes I can code easily and other times it takes hours and hours to do one thing!
