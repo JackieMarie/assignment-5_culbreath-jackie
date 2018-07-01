@@ -1,5 +1,8 @@
 ## Assignment 5
 
+## Link to Assignment 5 on Github
+[Assignment 5](https://github.com/JackieMarie/assignment-5_culbreath-jackie/tree/master)
+
 ## Resources Used
 Used the following resources to understand the DOM, Event Listeners, and scope:
 - Ducket, J. (2014). *Javascript & JQuery: interactive front-end web development.* Indianapolis, IN: John Wiley & Sons, Inc.
