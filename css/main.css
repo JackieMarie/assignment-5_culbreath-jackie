@@ -33,11 +33,11 @@ p {
   width: 400px;
   height: 150px;
   background-color: #504caf;
-  margin-left: 25px;
-  margin-top: 50px;
+  margin:auto;
 }
 
 .doubleclick {
+  display: inline-flex;
   border: 2px solid #504caf;
   width: 400px;
   height: 200px;
@@ -49,7 +49,7 @@ p {
 }
 
 .flower {
-  background-image: url('..img/flower.jpg');
+  background-image: url(../img/flower.jpg);
   background-repeat: no-repeat;
   max-width: 600px;
   width: 100%;

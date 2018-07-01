@@ -9,7 +9,7 @@ changeColor.addEventListener( 'mouseout', function () {
   changeColor.style.backgroundColor = '#504caf';
 })
 
-// Dblclick event to increase the font size of list items
+// Dblclick event to increase the font size of h2 element
 
 var increaseSize = document.getElementById( 'increasesize' );
 
@@ -17,14 +17,14 @@ increaseSize.addEventListener( 'dblclick', function() {
   increaseSize.className = 'resizefont';
 })
 
-// Load an image into the main
+// Load an image into a section in the main
 
-var img = new Image();
-  img.addEventListener('load', function () {
+var myImage = new Image();
+  myImage.addEventListener('load', function () {
 });
-img.src = ('img/flower.jpg');
+myImage.src = ('img/flower.jpg');
 
-var loadImage = document.getElementById( 'img' );
+var loadImage = document.getElementById( 'myImage' );
   loadImage.addEventListener('load', function() {
     loadImage.className = 'flower';
 })
