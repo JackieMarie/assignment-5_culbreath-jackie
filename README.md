@@ -9,7 +9,7 @@ Used the following resources to understand the DOM, Event Listeners, and scope:
 - [MDN web docs - EventTarget.addEventListener()](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 
 Used the following to test code:
-[jsfiddle.net](https://jsfiddle.net/)
+- [jsfiddle.net](https://jsfiddle.net/)
 
 ## Deductions
 I have reviewed the list of deductions for this project and in the syllabus.
